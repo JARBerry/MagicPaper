@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  MagicPaper
 //
-//  Created by Ray Berry on 06/11/2018.
+//  Created by James and Ray Berry on 06/11/2018.
 //  Copyright © 2018 JARBerry. All rights reserved.
 //
 
@@ -32,6 +32,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         // Create a session configuration
         let configuration = ARImageTrackingConfiguration()
         
+        // Checks tracked Images in folder NewsPaperImages
         if let trackedImages = ARReferenceImage.referenceImages(inGroupNamed: "NewsPaperImages", bundle: Bundle.main) {
             configuration.trackingImages = trackedImages
             configuration.maximumNumberOfTrackedImages = 1
@@ -56,6 +57,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         
         let node = SCNNode()
         
+        // if picture found play correct video
         if let imageAnchor = anchor as? ARImageAnchor {
             
             let videoNode = SKVideoNode(fileNamed: "harrypotter.mp4")
