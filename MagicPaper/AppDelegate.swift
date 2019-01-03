@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MagicPaper
 //
-//  Created by Ray Berry on 06/11/2018.
+//  Created by James and Ray Berry on 06/11/2018.
 //  Copyright © 2018 JARBerry. All rights reserved.
 //
 

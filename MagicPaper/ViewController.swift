@@ -10,6 +10,7 @@ import UIKit
 import SceneKit
 import ARKit
 
+// ensure ARSCNViewDelegate is used
 class ViewController: UIViewController, ARSCNViewDelegate {
 
     @IBOutlet var sceneView: ARSCNView!
