@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1704CB2A21E35F08003B4658 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 1704CB2921E35F08003B4658 /* Readme.md */; };
+		1704CB2C21E365CB003B4658 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 1704CB2B21E365CB003B4658 /* Readme.md */; };
 		177872F82191AFBD00D7E2A9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 177872F72191AFBD00D7E2A9 /* AppDelegate.swift */; };
 		177872FA2191AFBD00D7E2A9 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 177872F92191AFBD00D7E2A9 /* art.scnassets */; };
 		177872FC2191AFBD00D7E2A9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 177872FB2191AFBD00D7E2A9 /* ViewController.swift */; };
@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1704CB2921E35F08003B4658 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
+		1704CB2B21E365CB003B4658 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 		177872F42191AFBD00D7E2A9 /* MagicPaper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MagicPaper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		177872F72191AFBD00D7E2A9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		177872F92191AFBD00D7E2A9 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -44,7 +44,6 @@
 		177872EB2191AFBD00D7E2A9 = {
 			isa = PBXGroup;
 			children = (
-				1704CB2921E35F08003B4658 /* Readme.md */,
 				177872F62191AFBD00D7E2A9 /* MagicPaper */,
 				177872F52191AFBD00D7E2A9 /* Products */,
 			);
@@ -61,6 +60,7 @@
 		177872F62191AFBD00D7E2A9 /* MagicPaper */ = {
 			isa = PBXGroup;
 			children = (
+				1704CB2B21E365CB003B4658 /* Readme.md */,
 				1778730B2191B02700D7E2A9 /* harrypotter.mp4 */,
 				177872F72191AFBD00D7E2A9 /* AppDelegate.swift */,
 				177872F92191AFBD00D7E2A9 /* art.scnassets */,
@@ -133,7 +133,7 @@
 			files = (
 				177872FA2191AFBD00D7E2A9 /* art.scnassets in Resources */,
 				177873042191AFBF00D7E2A9 /* LaunchScreen.storyboard in Resources */,
-				1704CB2A21E35F08003B4658 /* Readme.md in Resources */,
+				1704CB2C21E365CB003B4658 /* Readme.md in Resources */,
 				1778730C2191B02700D7E2A9 /* harrypotter.mp4 in Resources */,
 				177873012191AFBF00D7E2A9 /* Assets.xcassets in Resources */,
 				177872FF2191AFBD00D7E2A9 /* Main.storyboard in Resources */,
