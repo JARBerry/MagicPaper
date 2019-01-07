@@ -24,7 +24,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         // Set the view's delegate
         sceneView.delegate = self
         
-        // Show statistics such as fps and timing information
+        // Show statistics such as FPS and timing information
         sceneView.showsStatistics = true
         
       
