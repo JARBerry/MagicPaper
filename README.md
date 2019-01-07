@@ -12,7 +12,7 @@ Please click on the YouTube link below for a full video experience with sound.
 https://youtu.be/JHxFu9ttDD0
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=JHxFu9ttDD0" target="_blank"><img src="http://img.youtube.com/vi/JHxFu9ttDD0/0.jpg"" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=JHxFu9ttDD0" target="_blank"><img src="http://img.youtube.com/vi/JHxFu9ttDD0/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="150" height="100" border="10" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
