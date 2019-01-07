@@ -44,7 +44,6 @@
 		177872EB2191AFBD00D7E2A9 = {
 			isa = PBXGroup;
 			children = (
-				1704CB2B21E365CB003B4658 /* Readme.md */,
 				177872F62191AFBD00D7E2A9 /* MagicPaper */,
 				177872F52191AFBD00D7E2A9 /* Products */,
 			);
@@ -61,6 +60,7 @@
 		177872F62191AFBD00D7E2A9 /* MagicPaper */ = {
 			isa = PBXGroup;
 			children = (
+				1704CB2B21E365CB003B4658 /* Readme.md */,
 				1778730B2191B02700D7E2A9 /* harrypotter.mp4 */,
 				177872F72191AFBD00D7E2A9 /* AppDelegate.swift */,
 				177872F92191AFBD00D7E2A9 /* art.scnassets */,
