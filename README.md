@@ -27,7 +27,7 @@ alt="IMAGE ALT TEXT HERE" width="150" height="100" border="10" /></a>
 
 ### Image recognition and tracking
 
-Image detection was introduced in ARKit 1.5, but the functionality and maturity of the framework was a bit low. But with Xcode 10, you can build amazing AR experiences. 
+Image detection was introduced in ARKit 1.5, but the functionality and maturity of the framework was a bit low. But with Xcode 10 and iOS12, you can build amazing AR experiences. 
 
 
 
