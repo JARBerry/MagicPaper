@@ -9,10 +9,13 @@ Combining the real world with the digital world. Using ARKit2 to detect images i
 
 Please click on the Vimeo link below for a full video experience with sound.
 
-<a href="https://vimeo.com/user93624011/review/309861839/5c2a6faa47
-" target="_blank"><img src="https://user-images.githubusercontent.com/36542195/50775135-4216f400-128d-11e9-9fe5-f7925f5e77f7.png" 
+<a href="https://vimeo.com/user93624011/review/309861839/5c2a6faa47" target="_blank"><img src="https://user-images.githubusercontent.com/36542195/50775135-4216f400-128d-11e9-9fe5-f7925f5e77f7.png" 
 alt="IMAGE ALT TEXT HERE" width="150" height="100" border="10" /></a>
 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Features in this demo
 * Image tracking 
