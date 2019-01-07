@@ -25,7 +25,7 @@ Image detection was introduced in ARKit 1.5, but the functionality and maturity 
 Please click on the Vimeo link belof for a full video experience with sound.
 
 <a href="https://vimeo.com/user93624011/review/309861839/5c2a6faa47
-" target="_blank"><img src="![2000px-vimeo_logo svg](https://user-images.githubusercontent.com/36542195/50775135-4216f400-128d-11e9-9fe5-f7925f5e77f7.png)" 
+" target="_blank"><img src="https://user-images.githubusercontent.com/36542195/50775135-4216f400-128d-11e9-9fe5-f7925f5e77f7.png" 
 alt="IMAGE ALT TEXT HERE" width="100" height="100" border="10" /></a>
 
 
