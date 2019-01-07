@@ -28,4 +28,8 @@ This file is updated to check if readme works
 https://vimeo.com/user93624011/review/309861839/5c2a6faa47
 
 
-![alt text](https://vimeo.com/user93624011/review/309861839/5c2a6faa47)
+![alt text] (https://vimeo.com/user93624011/review/309861839/5c2a6faa47)
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://vimeo.com/user93624011/review/309861839/5c2a6faa47)
+
+
