@@ -1,6 +1,6 @@
 # MagicPaper
 
-Overlays video playback once image detected using ARKit2.
+When an image is detected,  video playback occurs using ARKit2.
 
 ## Features in this demo:
 * Image tracking 
