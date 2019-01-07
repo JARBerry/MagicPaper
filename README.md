@@ -27,8 +27,8 @@ This file is updated to check if readme works
 https://vimeo.com/user93624011/review/309861839/5c2a6faa47
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="https://vimeo.com/user93624011/review/309861839/5c2a6faa47" 
+<a href="https://vimeo.com/user93624011/review/309861839/5c2a6faa47
+" target="_blank"><img src="https://user-images.githubusercontent.com/36542195/50647290-23082180-0f70-11e9-8a8a-b217813f4569.PNG" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ![ezgif com-video-to-gif-2](https://user-images.githubusercontent.com/36542195/50773197-19d8c680-1288-11e9-8c00-d7c8c63f4b4e.gif)
