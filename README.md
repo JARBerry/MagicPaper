@@ -22,14 +22,11 @@ Image detection was introduced in ARKit 1.5, but the functionality and maturity 
 This file is updated to check if readme works
 
 ![img_6869](https://user-images.githubusercontent.com/36542195/50647290-23082180-0f70-11e9-8a8a-b217813f4569.PNG)
-![img_6868](https://user-images.githubusercontent.com/36542195/50647291-23082180-0f70-11e9-99cd-f27de740f049.PNG)
 
 
 https://vimeo.com/user93624011/review/309861839/5c2a6faa47
 
 
-![alt text] (https://vimeo.com/user93624011/review/309861839/5c2a6faa47)
+[![Video](https://user-images.githubusercontent.com/36542195/50647290-23082180-0f70-11e9-8a8a-b217813f4569.PNG)](https://vimeo.com/user93624011/review/309861839/5c2a6faa47)
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://vimeo.com/user93624011/review/309861839/5c2a6faa47)
-
-
+![ezgif com-video-to-gif-2](https://user-images.githubusercontent.com/36542195/50773197-19d8c680-1288-11e9-8c00-d7c8c63f4b4e.gif)
